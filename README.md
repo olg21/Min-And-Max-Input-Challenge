@@ -1,0 +1,1 @@
+# Min-And-Max-Input-Challenge
